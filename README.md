@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Lampkins&hide=html)
-![Lampkins's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=Lampkins&show_icons=true&count_private=true&line_height=33.7)
+![Lampkins's stats](https://github-readme-stats.vercel.app/api?username=Lampkins&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lampkins)
 <!--
 **Lampkins/Lampkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
